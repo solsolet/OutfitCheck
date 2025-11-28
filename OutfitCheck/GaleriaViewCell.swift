@@ -9,4 +9,6 @@ import UIKit
 
 class GaleriaViewCell: UICollectionViewCell {
     
+    @IBOutlet weak var imgFotoPrenda: UIImageView!
+    
 }
